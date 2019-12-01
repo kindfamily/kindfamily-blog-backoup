@@ -4,16 +4,16 @@
 
 # Site
 title: kindfamily
-subtitle: ''
-description: ''
-keywords:
+subtitle: '카인드패밀리'
+description: '카인드패밀리 기술블로그'
+keywords: github, django, html, css, js
 author: Kind bear
 language: ko
 timezone: 'Asia/Seoul'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://kindfamily.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -96,7 +96,10 @@ theme: hexoblogtem
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/kindfamily/hexoblog.git
+  repo: https://github.com/kindfamily/kindfamily.github.io
   branch: master
-
-
+  
+comment:
+    enable: true
+    type: disqus
+    shortname: kindfamily-1     # (required)
