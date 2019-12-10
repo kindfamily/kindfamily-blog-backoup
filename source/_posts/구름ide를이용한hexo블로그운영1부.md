@@ -26,4 +26,11 @@ categories:
 1. markdown 미리보기화면을 제공한다
 
 
+### 멋진 구독자들의 멋진 hexo 블로그 !!
+[건우군블로그](https://ji-geon-woo.github.io/)
+
+[소연양블로그](https://jjksy.github.io/)
+
+
+
 
